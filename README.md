@@ -1,0 +1,2 @@
+# Simulare
+Simulare test practic
